@@ -46,7 +46,7 @@ Modern End-to-End DevOps Deployment
 ### 📫 Connect with Me
 
 LinkedIn:
-https://www.linkedin.com/in/john-eziorobo-b74773118
+https://www.linkedin.com/in/john-eziorobo
 
 GitHub:
 https://github.com/Bravojonasco1
